@@ -4,7 +4,7 @@ export default defineConfig({
   title: "TypeScript",
   description: "TypeScript 中文文档",
   lang: "zh-CN",
-  base: "/typescript",
+  base: "/documentation-for-typescript",
   themeConfig: {
     outline: "deep",
     nav: [
