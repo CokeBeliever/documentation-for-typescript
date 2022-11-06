@@ -1,0 +1,25 @@
+{
+  "name": "documentation-for-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CokeBeliever/documentation-for-typescript.git"
+  },
+  "author": "CokeBeliever",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CokeBeliever/documentation-for-typescript/issues"
+  },
+  "homepage": "https://github.com/CokeBeliever/documentation-for-typescript#readme",
+  "devDependencies": {
+    "prettier": "^2.7.1",
+    "vitepress": "^1.0.0-alpha.27"
+  }
+}
