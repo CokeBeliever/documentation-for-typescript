@@ -24,6 +24,16 @@ export default defineConfig({
           },
         ],
       },
+      {
+        text: "Handbook",
+        collapsible: true,
+        items: [
+          {
+            text: "The TypeScript Handbook",
+            link: "/handbook/the-typescript-handbook",
+          },
+        ],
+      },
     ],
     socialLinks: [{ icon: "github", link: "https://github.com/CokeBeliever" }],
     editLink: {
