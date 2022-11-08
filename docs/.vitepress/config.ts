@@ -32,6 +32,10 @@ export default defineConfig({
             text: "The TypeScript Handbook",
             link: "/handbook/the-typescript-handbook",
           },
+          {
+            text: "The Basics",
+            link: "/handbook/the-basics",
+          },
         ],
       },
     ],
