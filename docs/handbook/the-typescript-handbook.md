@@ -1,6 +1,6 @@
 # The TypeScript Handbook
 
-## About this Handbook 关于本手册
+## About this Handbook - 关于本手册
 
 在它被引入编程社区 20 多年后，JavaScript 现在是有史以来最普遍的跨平台语言之一。作为一种小型脚本语言开始，为网页添加琐碎的交互性，JavaScript 已经成为各种规模的前端和后端应用程序的首选语言。而用 JavaScript 编写的程序的规模、范围和复杂性都呈指数级增长，JavaScript 语言却没有表达不同代码单元之间关系的能力。结合 JavaScript 相当不寻常的运行时语义，这种语言和程序复杂性之间的不匹配使得 JavaScript 开发是一项难以大规模管理的任务。
 
@@ -8,7 +8,7 @@
 
 如果你没有 JavaScript 背景，只是想让 TypeScript 成为你的第一语言，我们建议您首先阅读 [Microsoft Learn JavaScript tutorial](https://docs.microsoft.com/javascript/) 中的文档，或者阅读 [JavaScript at the Mozilla Web Docs](https://developer.mozilla.org/docs/Web/JavaScript/Guide)。如果您有使用其他语言的经验，您应该能够通过阅读手册快速掌握 JavaScript 语法。
 
-## How is this Handbook Structured 这本手册的结构是怎样的
+## How is this Handbook Structured - 这本手册的结构是怎样的
 
 这本手册分为两部分：
 
@@ -30,7 +30,7 @@
 
   导航手册下方的参考部分是为了提供对 TypeScript 特定部分如何工作的更丰富的理解，你可以从头到尾阅读，但每一部分都旨在对单个概念提供更深入的解释 - 这意味着没有连续性的目标。
 
-### Non-Goals 非目标
+### Non-Goals - 非目标
 
 这本手册也打算成为一份简短的文件，可以在几个小时内轻松阅读。为了保持内容简短，某些主题将不涉及。
 
@@ -40,7 +40,7 @@
 
 最后，手册不会介绍 TypeScript 如何与其他工具交互，除非在必要时。诸如如何使用 webpack、rollup、parcel、react、babel、closure、lerna、rush、bazel、preact、vue、angular、slivelte、jquery、yarn 或 npm 配置 TypeScript 等主题不在讨论范围内 - 你可以在 web 的其他地方找到这些资源。
 
-## Get Started 开始
+## Get Started - 开始
 
 在开始学习 [The Basics](https://www.typescriptlang.org/docs/handbook/2/basic-types.html) 之前，我们建议阅读以下介绍页中的一页。这些介绍旨在突出 TypeScript 和您喜欢的编程语言之间的关键相似点和不同点，并澄清特定于这些语言的常见误解。
 

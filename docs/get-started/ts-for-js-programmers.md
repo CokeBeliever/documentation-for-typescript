@@ -8,7 +8,7 @@ TypeScript 与 JavaScript 的关系不同寻常。TypeScript 提供了 JavaScrip
 
 本教程将简要概述 TypeScript，重点介绍它的类型系统。
 
-## Types by inference 类型推断
+## Types by inference - 类型推断
 
 TypeScript 了解 JavaScript 语言，在很多情况下会为你生成类型。例如，在创建一个变量并将其赋值时，TypeScript 将使用该值作为其类型。
 
@@ -20,7 +20,7 @@ let helloWorld = "Hello World"; // let helloWorld: string
 
 你可能已经用 Visual Studio Code 写过 JavaScript，并且有编辑器自动完成功能。Visual Studio Code 在底层使用 TypeScript，以便更容易地使用 JavaScript。
 
-## Defining Types 定义类型
+## Defining Types - 定义类型
 
 你可以在 JavaScript 中使用各种各样的设计模式。然而，有些设计模式使自动推断类型变得困难（例如，使用动态编程的模式）。为了涵盖这些情况，TypeScript 支持 JavaScript 语言的扩展，它为你提供了告诉 TypeScript 应该是什么类型的地方。
 
@@ -104,11 +104,11 @@ JavaScript 中已经有了一个可用的基本类型小集：`boolean`、`bigin
 
 你将看到构建类型有两种语法：[Interfaces and Types](https://www.typescriptlang.org/play/?e=83#example/types-vs-interfaces)。你应该更喜欢 `interface`。当你需要特定的特性时使用 `type`。
 
-## Composing Types 组合类型
+## Composing Types - 组合类型
 
 在 TypeScript 中，你可以通过组合简单类型来创建复杂类型。有两种流行的方法：unions 和 generics。
 
-### Unions 联合
+### Unions - 联合
 
 使用联合，你可以声明一个类型可以是许多类型中的一种。例如，你可以将 `boolean` 类型描述为 `true` 或 `false`。
 
@@ -156,7 +156,7 @@ function wrapInArray(obj: string | string[]) {
 }
 ```
 
-### Generics 泛型
+### Generics - 泛型
 
 泛型为类型提供变量。
 
@@ -188,7 +188,7 @@ backpack.add(23);
 // 类型 “number” 的参数不能赋给类型 “string” 的参数。
 ```
 
-## Structural Type System 结构类型系统
+## Structural Type System - 结构类型系统
 
 TypeScript 的核心原则之一是类型检查关注值的形状。这有时被称为 "鸭子类型" 或 "结构类型"。
 
@@ -245,7 +245,7 @@ logPoint(newVPoint); // logs "13, 56"
 
 如果对象或类具有所有必需的属性，不管实现细节如何，TypeScript 都会认为它们是匹配的。
 
-## Next Steps 下一步
+## Next Steps - 下一步
 
 这是对 TypeScript 日常使用的语法和工具的简要概述。从这里，你可以：
 
