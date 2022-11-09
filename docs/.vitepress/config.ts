@@ -36,6 +36,10 @@ export default defineConfig({
             text: "The Basics",
             link: "/handbook/the-basics",
           },
+          {
+            text: "Everyday Types",
+            link: "/handbook/everyday-types",
+          },
         ],
       },
     ],
