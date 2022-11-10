@@ -40,6 +40,10 @@ export default defineConfig({
             text: "Everyday Types",
             link: "/handbook/everyday-types",
           },
+          {
+            text: "Narrowing",
+            link: "/handbook/narrowing",
+          },
         ],
       },
     ],
