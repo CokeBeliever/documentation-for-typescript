@@ -44,6 +44,10 @@ export default defineConfig({
             text: "Narrowing",
             link: "/handbook/narrowing",
           },
+          {
+            text: "More on Functions",
+            link: "/handbook/more-on-functions",
+          },
         ],
       },
     ],
