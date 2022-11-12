@@ -48,6 +48,10 @@ export default defineConfig({
             text: "More on Functions",
             link: "/handbook/more-on-functions",
           },
+          {
+            text: "Object Types",
+            link: "/handbook/object-types",
+          },
         ],
       },
     ],
