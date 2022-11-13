@@ -59,6 +59,10 @@ export default defineConfig({
                 text: "Creating Type from Types",
                 link: "/handbook/type-manipulation/creating-types-from-types",
               },
+              {
+                text: "Generics",
+                link: "/handbook/type-manipulation/generics",
+              },
             ],
           },
         ],
