@@ -63,6 +63,10 @@ export default defineConfig({
                 text: "Generics",
                 link: "/handbook/type-manipulation/generics",
               },
+              {
+                text: "Keyof Type Operator",
+                link: "/handbook/type-manipulation/keyof-type-operator",
+              },
             ],
           },
         ],
