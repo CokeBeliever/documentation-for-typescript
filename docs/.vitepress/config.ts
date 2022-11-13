@@ -52,6 +52,15 @@ export default defineConfig({
             text: "Object Types",
             link: "/handbook/object-types",
           },
+          {
+            text: "Type Manipulation",
+            items: [
+              {
+                text: "Creating Type from Types",
+                link: "/handbook/type-manipulation/creating-types-from-types",
+              },
+            ],
+          },
         ],
       },
     ],
