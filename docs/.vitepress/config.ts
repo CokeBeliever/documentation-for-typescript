@@ -67,6 +67,10 @@ export default defineConfig({
                 text: "Keyof Type Operator",
                 link: "/handbook/type-manipulation/keyof-type-operator",
               },
+              {
+                text: "Typeof Type Operator",
+                link: "/handbook/type-manipulation/typeof-type-operator",
+              },
             ],
           },
         ],
