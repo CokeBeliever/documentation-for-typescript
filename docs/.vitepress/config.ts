@@ -83,6 +83,10 @@ export default defineConfig({
                 text: "Mapped Types",
                 link: "/handbook/type-manipulation/mapped-types",
               },
+              {
+                text: "Template Literal Types",
+                link: "/handbook/type-manipulation/template-literal-types",
+              },
             ],
           },
         ],
