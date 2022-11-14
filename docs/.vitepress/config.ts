@@ -79,6 +79,10 @@ export default defineConfig({
                 text: "Conditional Types",
                 link: "/handbook/type-manipulation/conditional-types",
               },
+              {
+                text: "Mapped Types",
+                link: "/handbook/type-manipulation/mapped-types",
+              },
             ],
           },
         ],
