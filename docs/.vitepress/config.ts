@@ -6,6 +6,7 @@ export default defineConfig({
   lang: "zh-CN",
   base: "/documentation-for-typescript",
   themeConfig: {
+    logo: "/images/logo.svg",
     outline: "deep",
     nav: [
       {

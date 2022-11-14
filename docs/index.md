@@ -6,7 +6,7 @@ hero:
   text: TypeScript 是带有类型语法的 JavaScript
   tagline: TypeScript 是一种基于 JavaScript 的强类型编程语言，它可以在任何规模下为您提供更好的工具。
   image:
-    src: /logo.svg
+    src: /images/logo.svg
     alt: TypeScript
   actions:
     - theme: brand
