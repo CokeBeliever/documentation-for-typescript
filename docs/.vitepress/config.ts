@@ -71,6 +71,10 @@ export default defineConfig({
                 text: "Typeof Type Operator",
                 link: "/handbook/type-manipulation/typeof-type-operator",
               },
+              {
+                text: "Indexed Access Types",
+                link: "/handbook/type-manipulation/indexed-access-types",
+              },
             ],
           },
         ],
