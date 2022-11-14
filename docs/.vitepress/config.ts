@@ -75,6 +75,10 @@ export default defineConfig({
                 text: "Indexed Access Types",
                 link: "/handbook/type-manipulation/indexed-access-types",
               },
+              {
+                text: "Conditional Types",
+                link: "/handbook/type-manipulation/conditional-types",
+              },
             ],
           },
         ],
