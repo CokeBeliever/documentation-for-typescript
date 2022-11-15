@@ -90,6 +90,10 @@ export default defineConfig({
               },
             ],
           },
+          {
+            text: "Classes",
+            link: "/handbook/classes",
+          },
         ],
       },
     ],
