@@ -94,6 +94,10 @@ export default defineConfig({
             text: "Classes",
             link: "/handbook/classes",
           },
+          {
+            text: "Modules",
+            link: "/handbook/modules",
+          },
         ],
       },
     ],
