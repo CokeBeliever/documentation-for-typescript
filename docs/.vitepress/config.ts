@@ -100,6 +100,16 @@ export default defineConfig({
           },
         ],
       },
+      {
+        text: "Declaration Files",
+        collapsible: true,
+        items: [
+          {
+            text: "Introduction",
+            link: "/declaration-files/introduction",
+          },
+        ],
+      },
     ],
     socialLinks: [{ icon: "github", link: "https://github.com/CokeBeliever" }],
     editLink: {
