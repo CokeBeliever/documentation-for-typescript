@@ -108,6 +108,10 @@ export default defineConfig({
             text: "Introduction",
             link: "/declaration-files/introduction",
           },
+          {
+            text: "Declaration Reference",
+            link: "/declaration-files/declaration-reference",
+          },
         ],
       },
     ],
