@@ -112,6 +112,10 @@ export default defineConfig({
             text: "Declaration Reference",
             link: "/declaration-files/declaration-reference",
           },
+          {
+            text: "Library Structures",
+            link: "/declaration-files/library-structures",
+          },
         ],
       },
     ],
