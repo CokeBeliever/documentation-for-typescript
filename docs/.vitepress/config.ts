@@ -116,6 +116,15 @@ export default defineConfig({
             text: "Library Structures",
             link: "/declaration-files/library-structures",
           },
+          {
+            text: ".d.ts Templates",
+            items: [
+              {
+                text: "Modules .d.ts",
+                link: "/declaration-files/.d.ts-templates/modules-.d.ts",
+              },
+            ],
+          },
         ],
       },
     ],
