@@ -121,7 +121,7 @@ export default defineConfig({
             items: [
               {
                 text: "Modules .d.ts",
-                link: "/declaration-files/.d.ts-templates/modules-.d.ts",
+                link: "/declaration-files/-d-ts-templates/modules-d-ts",
               },
             ],
           },
