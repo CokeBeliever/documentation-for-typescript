@@ -123,6 +123,10 @@ export default defineConfig({
                 text: "Modules .d.ts",
                 link: "/declaration-files/-d-ts-templates/modules-d-ts",
               },
+              {
+                text: "Module: Plugin",
+                link: "/declaration-files/-d-ts-templates/module-plugin",
+              },
             ],
           },
         ],
