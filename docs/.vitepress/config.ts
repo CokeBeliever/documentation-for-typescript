@@ -135,6 +135,10 @@ export default defineConfig({
                 text: "Module: Function",
                 link: "/declaration-files/-d-ts-templates/module-function",
               },
+              {
+                text: "Global .d.ts",
+                link: "/declaration-files/-d-ts-templates/global-d-ts",
+              },
             ],
           },
         ],
