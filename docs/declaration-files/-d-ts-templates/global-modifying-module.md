@@ -8,7 +8,7 @@
 
 全局修改模块通常很容易从文档中识别。通常，它们类似于全局插件，但是需要一个 `require` 调用来激活它们的效果。
 
-您可能会看到这样的文档：
+你可能会看到这样的文档：
 
 ```js
 // 'require' call that doesn't use its return value

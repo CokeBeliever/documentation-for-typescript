@@ -6,7 +6,7 @@
 
 程序员编写的最常见的错误类型可以描述为类型错误：在期望使用不同类型值的地方使用特定类型的值。这可能是由于简单的拼写错误、无法理解库的 API 表面、对运行时行为的错误假设、或其他错误。TypeScript 的目标是成为 JavaScript 程序的静态类型检查器 - 换句话说，在代码运行 (静态) 之前运行的工具，并确保程序的类型是正确的 (类型检查)。
 
-如果你没有 JavaScript 背景，只是想让 TypeScript 成为你的第一语言，我们建议您首先阅读 [Microsoft Learn JavaScript tutorial](https://docs.microsoft.com/javascript/) 中的文档，或者阅读 [JavaScript at the Mozilla Web Docs](https://developer.mozilla.org/docs/Web/JavaScript/Guide)。如果您有使用其他语言的经验，您应该能够通过阅读手册快速掌握 JavaScript 语法。
+如果你没有 JavaScript 背景，只是想让 TypeScript 成为你的第一语言，我们建议你首先阅读 [Microsoft Learn JavaScript tutorial](https://docs.microsoft.com/javascript/) 中的文档，或者阅读 [JavaScript at the Mozilla Web Docs](https://developer.mozilla.org/docs/Web/JavaScript/Guide)。如果你有使用其他语言的经验，你应该能够通过阅读手册快速掌握 JavaScript 语法。
 
 ## How is this Handbook Structured - 这本手册的结构是怎样的
 
@@ -24,7 +24,7 @@
   - 解释重要编译器选项的效果
   - 在大多数情况下正确预测类型系统行为
 
-  为了清晰和简洁，本手册的主要内容将不探讨所涵盖功能的每一个边缘情况或细节，您可以在参考文章中找到关于特定概念的更多详细信息。
+  为了清晰和简洁，本手册的主要内容将不探讨所涵盖功能的每一个边缘情况或细节，你可以在参考文章中找到关于特定概念的更多详细信息。
 
 - **Reference Files**
 
@@ -42,7 +42,7 @@
 
 ## Get Started - 开始
 
-在开始学习 [The Basics](https://www.typescriptlang.org/docs/handbook/2/basic-types.html) 之前，我们建议阅读以下介绍页中的一页。这些介绍旨在突出 TypeScript 和您喜欢的编程语言之间的关键相似点和不同点，并澄清特定于这些语言的常见误解。
+在开始学习 [The Basics](https://www.typescriptlang.org/docs/handbook/2/basic-types.html) 之前，我们建议阅读以下介绍页中的一页。这些介绍旨在突出 TypeScript 和你喜欢的编程语言之间的关键相似点和不同点，并澄清特定于这些语言的常见误解。
 
 - [TypeScript for New Programmers](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
 - [TypeScript for JavaScript Programmers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
