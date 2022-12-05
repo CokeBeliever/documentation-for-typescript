@@ -139,6 +139,10 @@ export default defineConfig({
                 text: "Global .d.ts",
                 link: "/declaration-files/-d-ts-templates/global-d-ts",
               },
+              {
+                text: "Global: Modifying Module",
+                link: "/declaration-files/-d-ts-templates/global-modifying-module",
+              },
             ],
           },
         ],
