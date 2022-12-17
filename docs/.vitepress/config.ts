@@ -147,6 +147,16 @@ export default defineConfig({
           },
         ],
       },
+      {
+        text: "Project Configuration",
+        collapsible: true,
+        items: [
+          {
+            text: "What is a tsconfig.json",
+            link: "/project-configuration/what-is-a-tsconfig-json",
+          },
+        ],
+      },
     ],
     socialLinks: [{ icon: "github", link: "https://github.com/CokeBeliever" }],
     editLink: {
