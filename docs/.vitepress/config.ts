@@ -155,6 +155,10 @@ export default defineConfig({
             text: "What is a tsconfig.json",
             link: "/project-configuration/what-is-a-tsconfig-json",
           },
+          {
+            text: "Project References",
+            link: "/project-configuration/project-references",
+          },
         ],
       },
     ],
