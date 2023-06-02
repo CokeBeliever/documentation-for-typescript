@@ -101,6 +101,16 @@ export default defineConfig({
         ],
       },
       {
+        text: "Reference",
+        collapsible: true,
+        items: [
+          {
+            text: "Decorators",
+            link: "/reference/decorators",
+          },
+        ],
+      },
+      {
         text: "Declaration Files",
         collapsible: true,
         items: [
